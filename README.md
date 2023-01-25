@@ -1,1 +1,3 @@
 # tugas-uas
+Data berbentuk citra pada jumlah besar  digunakan pada berbagai bidang, keliru satunya di bidang perikanan, terutama buat penentuan atau pengklasifikasian jenis ikan koi. Belakangan ini ikan koi sangat populer dikalangan masyarakat untuk dijadikan sebagai hiasan buat memperindah tempat tinggal  , ataupun sekedar hobi memelihara. tetapi beberapa penggemar koi tidak mengetahui jenis koi apa yang dimiliki nya, hanya tertarik asal ukuran serta rona nya yg unik serta majemuk. Jenis koi dapat dibedakan berasal corak warna ditubuhnya.
+Ikan koi terbaik mempunyai garis tepi substansial sehingga tampak sangat latif. Ikan koi jua mempunyai rona-warni yang menawan sebagai akibatnya bisa menyampaikan semangat kepada orang-orang yg mengamatinya.
